@@ -58,6 +58,23 @@ codebrewcafe/
 ```
 ---
 
+## Screenshots
+
+### Login Screen
+![Login Screen](assets/login.png)
+
+![Login_in](assets/login_in.png)
+
+### Dashboard
+![Admin_Dashboard](assets/dashboard.png)
+
+![Staff_Dashboard](assets/staff_dashboard.png)
+
+### Reciept
+![Reciept](assets/reciept.png)
+
+---
+
 ## Technologies Used
 
 - **Language:** Java  
