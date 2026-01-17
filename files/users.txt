@@ -1,2 +1,3 @@
 ADMIN,admin,iamadmin
 ADMIN,Salman,12345
+STAFF,Rocky,77

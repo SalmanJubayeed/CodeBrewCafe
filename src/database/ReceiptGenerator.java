@@ -12,7 +12,7 @@ public class ReceiptGenerator {
 
         // Header
         receipt.append("===================================\n");
-        receipt.append("           CAFE RECEIPT            \n");
+        receipt.append("           CODEBREW CAFE            \n");
         receipt.append("===================================\n\n");
 
         // Receipt details
