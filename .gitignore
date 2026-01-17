@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+workspace.xml
+modules.xml
+vcs.xml
+misc.xml
+
+# Build output
+out/
+build/
+target/
+
+# Java
+*.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
